@@ -1,71 +1,49 @@
-## 👋 Hi, I'm Imran Alam  
-
-### Digital Product Engineer  
-
-Engineering scalable digital platforms built to last.  
-
-Helping organizations design, build, and scale SaaS products, CRM systems, and automation platforms that remain reliable, fast, and maintainable for years.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=28&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Imran+Alam;Digital+Product+Engineer;Engineering+Scalable+Digital+Platforms;SaaS+%7C+CRM+%7C+Automation+Architect" />
+</p>
 
 ---
 
-## 🚀 Product-Focused Engineering
-
-I design and build production-ready systems for:
-
-- 📊 SaaS Platforms  
-- 📩 WhatsApp CRM & Messaging Automation  
-- 🏫 School ERP & LMS Systems  
-- 🧾 Business Automation Tools  
-- 🔁 Workflow & Process Automation  
-- 📈 Scalable Admin Panels & Dashboards  
-- 🔌 API-First Systems & Third-Party Integrations  
-
-From database architecture to real-time systems — I build products engineered for growth.
+<p align="center">
+<b>Engineering scalable digital platforms built to last.</b>
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## About
 
-### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+I design and architect high-performance SaaS platforms, CRM systems, and automation products built for long-term reliability and scale.
 
-### Mobile & Frontend
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-### Cloud & Realtime
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+My focus is not just launching software —  
+but engineering systems that remain fast, maintainable, and production-ready for years.
 
 ---
 
-## 📊 GitHub Stats
+## Focus
 
-![Profile Views](https://komarev.com/ghpvc/?username=ErIMRANALAM&label=Profile%20Views&color=0e75b6&style=flat)
-
-![GitHub Followers](https://img.shields.io/github/followers/ErIMRANALAM?style=for-the-badge)
-
-![GitHub Stars](https://img.shields.io/github/stars/ErIMRANALAM?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)
-
----
-
-## 🧠 Engineering Philosophy
-
-- Build for scale from day one  
-- Architect systems, not just features  
-- Prioritize maintainability & performance  
-- Secure by design  
-- Long-term reliability over quick hacks  
+• SaaS Platforms  
+• WhatsApp CRM & Messaging Automation  
+• School ERP & LMS Systems  
+• API-First Architectures  
+• Real-Time Systems  
+• Business Process Automation  
 
 ---
 
-## 📫 Let’s Build Something Scalable
+## Stack
 
-📧 info@imranalam.in  
-🌍 https://imranalam.in  
+`PHP` • `MySQL` • `Flutter` • `Firebase` • `REST APIs` • `WebSockets`
 
 ---
 
-⚡ Building SaaS & automation systems that don’t just launch — they scale.
+## Philosophy
+
+Build for scale.  
+Design with clarity.  
+Engineer for longevity.  
+
+---
+
+<p align="center">
+info@imranalam.in
+</p>
