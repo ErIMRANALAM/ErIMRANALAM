@@ -1,7 +1,71 @@
-- 👋  Hi, I am Imran Alam, Full Stack Developer. Helping local businesses to enhance their reach to customers through Websites, Web / Mobile Application, and Digital Marketing. We offer a long range of services like Website Designing, Android Application, School Management System, LMS Software, Point of Sale (Pos) , SEO, Social media Marketing, and Technical Support as well..
-- 📫  info@imranalam.in
+## 👋 Hi, I'm Imran Alam  
 
-<!---
-ErIMRANALAM/ErIMRANALAM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Digital Product Engineer  
+
+Engineering scalable digital platforms built to last.  
+
+Helping organizations design, build, and scale SaaS products, CRM systems, and automation platforms that remain reliable, fast, and maintainable for years.
+
+---
+
+## 🚀 Product-Focused Engineering
+
+I design and build production-ready systems for:
+
+- 📊 SaaS Platforms  
+- 📩 WhatsApp CRM & Messaging Automation  
+- 🏫 School ERP & LMS Systems  
+- 🧾 Business Automation Tools  
+- 🔁 Workflow & Process Automation  
+- 📈 Scalable Admin Panels & Dashboards  
+- 🔌 API-First Systems & Third-Party Integrations  
+
+From database architecture to real-time systems — I build products engineered for growth.
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Mobile & Frontend
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### Cloud & Realtime
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Imran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErIMRANALAM&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErIMRANALAM&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ErIMRANALAM&theme=radical&hide_border=true)
+
+---
+
+## 🧠 Engineering Philosophy
+
+- Build for scale from day one  
+- Architect systems, not just features  
+- Prioritize maintainability & performance  
+- Secure by design  
+- Long-term reliability over quick hacks  
+
+---
+
+## 📫 Let’s Build Something Scalable
+
+📧 info@imranalam.in  
+🌍 https://imranalam.in  
+
+---
+
+⚡ Building SaaS & automation systems that don’t just launch — they scale.
