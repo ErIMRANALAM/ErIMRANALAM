@@ -43,11 +43,11 @@ From database architecture to real-time systems — I build products engineered 
 
 ## 📊 GitHub Stats
 
-![Imran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErIMRANALAM&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Profile Views](https://komarev.com/ghpvc/?username=ErIMRANALAM&label=Profile%20Views&color=0e75b6&style=flat)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErIMRANALAM&layout=compact&theme=radical&hide_border=true&cache_seconds=1800)
+![GitHub Followers](https://img.shields.io/github/followers/ErIMRANALAM?style=for-the-badge)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ErIMRANALAM&theme=radical&hide_border=true&cache_seconds=1800)
+![GitHub Stars](https://img.shields.io/github/stars/ErIMRANALAM?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)
 
 ---
 
