@@ -22,8 +22,8 @@ but engineering systems that remain fast, maintainable, and production-ready for
 ## Focus
 
 • SaaS Platforms  
-• WhatsApp CRM & Messaging Automation  
-• School ERP & LMS Systems  
+• MsgGenie | WhatsApp Messaging Automation  
+• eSchool ERP & LMS Systems  
 • API-First Architectures  
 • Real-Time Systems  
 • Business Process Automation  
